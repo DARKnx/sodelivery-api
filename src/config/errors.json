@@ -22,6 +22,10 @@
         "message": "User not found",
         "statusCode": 404
     },
+    "address_not_found": {
+        "message": "Address not found",
+        "statusCode": 404
+    },
     "user_already_exists": {
         "message": "User already exists",
         "statusCode": 401
