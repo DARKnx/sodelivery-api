@@ -9,10 +9,7 @@ const StoreSchema = new mongoose.Schema({
         id: String
       }
     ],
-    Store: {
-      cep: Number,
-      all: String
-    },
+    store: String,
     date: {
 		type: Date,
 		default: Date.now()
