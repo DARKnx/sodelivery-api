@@ -1,6 +1,6 @@
 {
-  "name": "express-template-api",
-  "description": "Um template de api para agilizar a vida do desenvolvedor.",
+  "name": "sodelivery-api",
+  "description": "Uma api para um app de bebidas",
   "version": "1.0.0",
   "type": "module",
   "main": "src/server.js",
