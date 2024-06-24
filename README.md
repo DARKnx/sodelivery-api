@@ -19,7 +19,7 @@ API responsavel por gerir presenças e aulas.
 
 Clone o repositório:
 ```bash
-git clone https://github.com/odutradev/inova-presente-api.git
+git clone https://github.com/odutradev/sodelivery-api.git
 ```
 Entre no diretório do projeto:
 ```bash
